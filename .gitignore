@@ -1,0 +1,12 @@
+# Keil MDK 忽略
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+*.axf
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.map
+*.crf
+*.bak

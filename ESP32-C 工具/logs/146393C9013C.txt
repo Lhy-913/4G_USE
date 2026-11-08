@@ -1,0 +1,672 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:09
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 7.3 seconds (effective 4576.5 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 13 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:10
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+set STOP FLG: Truecom closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:10
+Connect baud: 115200
+Com:COM3
+set STOP FLG: Trueconnecting...
+set state: ESP_DL_STOP
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:10
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 8.3 seconds (effective 4022.3 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:12
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:13
+Connect baud: 115200
+Com:COM3
+connecting...
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:13
+Connect baud: 115200
+Com:COM3
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:13
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 6.9 seconds (effective 4883.5 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:24
+Connect baud: 115200
+Com:COM3
+serial port open error
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:24
+Connect baud: 115200
+Com:COM3
+serial port open error
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:27
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+
+Leaving...
+com closed
+Total use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:28
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 8.9 seconds (effective 3767.3 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:32
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 8.9 seconds (effective 3769.4 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-15:43
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 8.9 seconds (effective 3771.0 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:02
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+
+Leaving...
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:03
+Connect baud: 115200
+Com:COM3
+connecting...
+set STOP FLG: Truefs:0x200200
+com closed
+Total use time: 3 s
+Download result: FAIL
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:03
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:03
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 6.5 seconds (effective 5198.2 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:28
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 8.5 seconds (effective 3927.8 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:28
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:28
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 6.6 seconds (effective 5051.2 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:29
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:29
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 32768 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00008000 in 6.4 seconds (effective 5282.5 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:29
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:29
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (1050909 compressed) at 0x00000000 in 6.7 seconds (effective 5038.8 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: b00c18b40550320d40d782062cb25bea
+Flash md5: b00c18b40550320d40d782062cb25bea
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:45
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260424-16:45
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 6.3 seconds (effective 5308.0 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-15:34
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 8.7 seconds (effective 3876.3 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-16:09
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 8.6 seconds (effective 3910.2 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-18:08
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 8.6 seconds (effective 3912.7 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-19:06
+Connect baud: 115200
+Com:COM10
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+set STOP FLG: Truecom closed
+Total use time: 8 s
+Download result: PASS
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-19:06
+Connect baud: 115200
+Com:COM10
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-19:06
+Connect baud: 115200
+Com:COM10
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 87.2 seconds (effective 384.7 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: a22f7c381cd6e45bca3a870e1ae00b7f
+MD5 of file does not match data in flash!
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-19:08
+Connect baud: 115200
+Com:COM10
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 87.4 seconds (effective 383.7 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 104 s
+Download result: PASS
+*************************** END ****************************
+
+Erase button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-23:20
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+com closed
+Total use time: 4 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32C3
+Download mode: usb
+Start time: 20260425-23:21
+Connect baud: 115200
+Com:COM3
+connecting...
+manufacturer_id: 0x46
+device_id: 0x4016
+fs:0x200200
+address/file: 0 D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+Wrote 4194304 bytes (878476 compressed) at 0x00000000 in 6.4 seconds (effective 5276.2 kbit/s)...
+File: D:\Keil5_MDK__For_STM32_cubeMX\My_Project\oled\4G_use\ESP32-C 工具\dl_temp\bin_tmp\downloadPanel1\factory_MINI-1.bin
+File  md5: 352c52595f0494b0e393e381c391a38e
+Flash md5: 352c52595f0494b0e393e381c391a38e
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 12 s
+Download result: PASS
+*************************** END ****************************
+
